@@ -4,7 +4,7 @@
 
 
 
-
+### This is a side projects portfolio. My main account is [jotamath](https://www.github.com/jotamath)
 
 ## 🚀 About Me
 I'm a full stack developer React/Java that is absolutely fascinated about Kotlin. 
