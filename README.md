@@ -15,4 +15,4 @@
 
 ## 🛠️ Stack & Ferramentas
 
-[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=android-dark,elm-dark,gleam-dark,java-dark,kotlinmultiplatform-dark,linux-dark,postgresql-dark)](https://i.icoziv.workers.dev)
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=android-dark,elm-dark,gleam-dark,java-dark,kotlinmultiplatform-dark,ktor-dark,linux-dark,postgresql-dark,springboot-dark)](https://i.icoziv.workers.dev)
