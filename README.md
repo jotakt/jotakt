@@ -1,6 +1,6 @@
 # Jota.kt [![wakatime](https://wakatime.com/badge/user/018c9fc5-3ccc-466c-ae10-5fb37fb92384.svg)](https://wakatime.com/@018c9fc5-3ccc-466c-ae10-5fb37fb92384)
 
-`Kotlin Developer · Explorando Elm e Gleam`
+`Kotlin · Typescript · Elm · Gleam`
 
 > 🧪 *Perfil secundário — é aqui que testo ideias e mudo de stack sem culpa.*  
 > Meu perfil principal: [jotamath](https://www.github.com/jotamath)
